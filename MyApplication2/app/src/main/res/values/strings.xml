@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Project3Companion</string>
+    <string name="action_settings">Chicago</string>
+    <string name="action_settings2">Indianapolis</string>
+    <string-array name="LocationChicago">
+        <item>Millennium Park</item>
+        <item>Chicago Children Museum</item>
+        <item>Willis Tower</item>
+        <item>Lincoln Park Zoo</item>
+        <item>The Museum of Science and Industry</item>
+        <item>John Hancock</item>
+        <item>Shedd Aquarium</item>
+        <item>Field Museum</item>
+        <item>Adler Planetarium</item>
+        <item>Chicago Cultural Center</item>
+        <item>Soldier Field</item>
+        <item>The Chicago Theater</item>
+
+
+    </string-array>
+    <string-array name="Quotes">
+        <item>http://www.cityofchicago.org/city/en.html</item>
+        <item>http://www.chicagochildrensmuseum.org/</item>
+        <item>http://www.willistower.com/</item>
+        <item>http://www.lpzoo.org/</item>
+        <item>http://www.msichicago.org/</item>
+        <item>http://www.johnhancockcenterchicago.com/</item>
+        <item>http://www.sheddaquarium.org/</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>http://www.adlerplanetarium.org/</item>
+        <item>http://www.cityofchicago.org/city/en/depts/dca/supp_info/chicago_culturalcenter.html</item>
+        <item>http://www.soldierfield.net/</item>
+        <item>http://www.thechicagotheatre.com/</item>
+
+
+
+    </string-array>
+    <string-array name="LocationIndianapolis">
+        <item>Indianapolis Motor Speedway</item>
+        <item>The Childrens Museum of Indianapolis</item>
+        <item>Indiana Museum</item>
+        <item>Indiana Repertory Theatre</item>
+
+
+    </string-array>
+    <string-array name="QuotesIndianapolis">
+        <item>http://www.indianapolismotorspeedway.com/</item>
+        <item>https://www.childrensmuseum.org/</item>
+        <item>http://www.indianamuseum.org/</item>
+        <item>http://www.irtlive.com/</item>
+
+
+
+    </string-array>
+</resources>
